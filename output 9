@@ -1,0 +1,9 @@
+Numbers between 100 and 200 divisible by 9 are:
+108 117 126 135 144 153 162 171 180 189 198
+
+Total count: 11
+Sum of numbers divisible by 9: 1683
+
+Process returned 0 (0x0)   execution time : 0.120 s
+Press any key to continue.
+
