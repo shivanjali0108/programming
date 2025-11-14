@@ -1,0 +1,10 @@
+Enter first number: 1
+Enter second number: 2
+Before swapping: x = 1, y = 2
+Inside swap function: a = 2, b = 1
+After calling swap function: x = 1, y = 2
+
+Process returned 0 (0x0)   execution time : 5.320 s
+Press any key to continue.
+
+
