@@ -1,0 +1,20 @@
+Enter Employee Details:
+Enter Name: shivanjali
+Enter Age: 18
+Enter Employee ID: 35767
+Enter Designation: arial
+Enter Salary: 2000000
+Enter Working Hours per week: 18
+
+--- Employee Details ---
+Name: shivanjali
+Age: 18
+Employee ID: 35767
+Designation: arial
+Salary: 2e+006
+Working Hours per week: 18
+
+Process returned 0 (0x0)   execution time : 412.712 s
+Press any key to continue.
+
+
