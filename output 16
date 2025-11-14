@@ -1,0 +1,20 @@
+Enter Employee Details:
+Enter Name: tashu
+Enter Age: 18
+Enter Employee ID: 1234
+Enter Designation: seri
+Enter Salary: 3000000
+Enter Working Hours per week: 18
+
+--- Employee Details ---
+Name: tashu
+Age: 18
+Employee ID: 1234
+Designation: seri
+Salary: 3e+006
+Working Hours per week: 18
+
+Process returned 0 (0x0)   execution time : 30.457 s
+Press any key to continue.
+
+
