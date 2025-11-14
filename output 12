@@ -1,0 +1,28 @@
+Enter Roll No: 33
+Enter Book Name: ikagi
+Enter Author Name: robert
+Enter Price: 300
+Enter ISBN: 234
+
+Original Book (b1):
+----- Book Details -----
+Roll No: 33
+Book Name: ikagi
+Author Name: robert
+Price: 300
+ISBN: 234
+
+Copied Book (b2):
+----- Book Details -----
+Roll No: 33
+Book Name: ikagi
+Author Name: robert
+Price: 300
+ISBN: 234
+
+Process returned 0 (0x0)   execution time : 27.197 s
+Press any key to continue.
+
+
+
+
