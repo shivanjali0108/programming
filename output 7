@@ -1,0 +1,22 @@
+Enter number of students: 2
+
+Enter details for student 1:
+Enter Roll Number: 38
+Enter Marks: 50
+
+Enter details for student 2:
+Enter Roll Number: 34
+Enter Marks: 58
+
+Details of all students:
+Roll Number: 38 Marks: 50
+Roll Number: 34 Marks: 58
+
+Process returned 0 (0x0)   execution time : 16.049 s
+Press any key to continue.
+
+
+
+
+
+
