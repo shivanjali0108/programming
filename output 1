@@ -1,0 +1,22 @@
+Enter number of grades: 8
+Enter number of students in each grade: 2
+
+Enter grade letter (A/B/C/D/F): A
+Enter marks for student 120
+Enter marks for student 230
+
+Grade A average = 25
+Percentage of students = 12.5%
+
+Enter grade letter (A/B/C/D/F): B
+Enter marks for student 110
+Enter marks for student 220
+
+Grade B average = 15
+Percentage of students = 12.5%
+
+Enter grade letter (A/B/C/D/F):
+
+
+
+
