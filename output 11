@@ -1,0 +1,16 @@
+Enter Roll No: 38
+Enter Name: shivanjali
+Enter PRN: 123
+Enter Total Marks (out of 500): 499
+
+----- Student Details -----
+Name: shivanjali
+Roll No: 38
+PRN: 123
+Total Marks: 499
+Percentage: 99.8%
+Result: Distinction
+
+Process returned 0 (0x0)   execution time : 17.650 s
+Press any key to continue.
+
