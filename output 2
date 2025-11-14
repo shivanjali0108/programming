@@ -1,0 +1,11 @@
+Temperature Converter
+----------------------
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+Enter your choice (1 or 2): 1
+Enter temperature in Celsius: 23
+Temperature in Fahrenheit = 73.4
+
+Process returned 0 (0x0)   execution time : 22.498 s
+Press any key to continue.
+
